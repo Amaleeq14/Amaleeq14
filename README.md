@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+tech+that+elevates+people.;Open+source+for+everyone.;Flutter+%7C+Dart+%7C+Firebase+%7C+AI.;Community+first%2C+always." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+tech+that+elevates+people.;Open+source+for+everyone.;Flutter+%7C+Dart+%7C+Firebase+%7C+AI.;Cybersecurity+%7C+CompTIA+Security%2B.;Community+first%2C+always." alt="Typing SVG" />
 
 </div>
 
@@ -29,6 +29,7 @@ current_focus:
   - Firebase backend & real-time apps
   - REST API integration
   - Java fundamentals
+  - Cybersecurity (CompTIA Security+ pathway)
 
 community:
   - Open source collaborator
@@ -68,13 +69,14 @@ contact:
 
 <div align="center">
 
-|Layer            |Tools                                                                                                                                                                                                           |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|📱 **Mobile**     |![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)        |
-|🔥 **Backend**    |![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)                                                                                                     |
-|🔌 **Integration**|![REST API](https://img.shields.io/badge/REST_API-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white)                                                                                                      |
-|☕ **Language**   |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)                                                                                                              |
-|🛠 **Tools**      |![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
+|Layer            |Tools                                                                                                                                                                                                                                                                                                                                               |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|📱 **Mobile**     |![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)                                                                                                                                            |
+|🔥 **Backend**    |![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)                                                                                                                                                                                                                                         |
+|🔌 **Integration**|![REST API](https://img.shields.io/badge/REST_API-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white)                                                                                                                                                                                                                                          |
+|☕ **Language**   |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)                                                                                                                                                                                                                                                  |
+|🛠 **Tools**      |![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)                                                                                                                                    |
+|🔐 **Security**   |![CompTIA](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)|
 
 </div>
 
